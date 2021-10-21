@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "tomaciazek.ansible",
+        "ms-python.vscode-pylance",
+        "redhat.ansible"
+    ]
+}
