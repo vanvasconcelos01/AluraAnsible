@@ -1,5 +1,4 @@
 - name: Instalando o Docker
-teste
   shell: curl -fsSL https://get.docker.com | bash
 
 - name: Install a list of packages
